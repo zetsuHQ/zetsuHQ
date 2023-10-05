@@ -5,7 +5,7 @@ I'm zetsu (Gabriel Lima). Brazilian, 19 years old.
 
 When I got the opportunity to build my first computer in november 2022, the first thing that came to my mind was the power that would be given to me. I could finally stop struggling with handwrinting algorithms in pseudo-languages in my notebook and start actually building software.
 
-After a couple of months I was already able to finish my first project: <a href="https://github.com/zetsuHQ/password-generator">password-generator</a>. It felt amazing. Although being a simple client-side application, the feeling of building something from scratch, relying only on my abilities to research, was trully satisfactory.
+After a couple of months I was already able to finish my first project: [password-generator](https://github.com/zetsuHQ/password-generator). It felt amazing. Although being a simple client-side application, the feeling of building something from scratch, relying only on my abilities to research, was trully satisfactory.
 
 The experience aquired after that simple project allowed me to see that some of the things I thought were made for genious were actually just a matter of dedication and time, so now cybersecurity seemed a lot closer to my reality.
 
@@ -35,9 +35,14 @@ I believe that programming languages are just tools, not something to be attatch
   <li>Red team</li>
 </ul>
 
-# My progress
+# My progress (Oct 04, 2023)
 
-<h3>Web Security Academy (Oct 04, 2023)</h3>
-![image](https://github.com/zetsuHQ/zetsuHQ/assets/127287685/a9a95d6f-c001-47b0-aee4-44bca5a5a1a4)
+[Web Security Academy](https://github.com/zetsuHQ/zetsuHQ/assets/127287685/a9a95d6f-c001-47b0-aee4-44bca5a5a1a4)
 
-<h3><a href="https://app.hackthebox.com/users/1528410">HackTheBox</a></h3>
+[HackTheBox](https://app.hackthebox.com/users/1528410)
+
+[TryHackMe](https://tryhackme.com/p/zetsuHQ)
+
+# Currently working on...
+
+Building a [CTF](https://en.wikipedia.org/wiki/Capture_the_flag_(cybersecurity)) challenge for "Semana Aratu", an event from [Boitatech](https://boitatech.com.br/), the brazilian cybersecurity community where I'm active on a daily basis.
