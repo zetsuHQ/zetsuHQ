@@ -18,7 +18,6 @@ I believe that programming languages are just tools, not something to be attatch
 <h3>Languages</h3>
 <ul>
   <li>JavaScript</li>
-  <li>Node.js</li>
   <li>Python</li>
   <li>C#</li>
   <li>C</li>
