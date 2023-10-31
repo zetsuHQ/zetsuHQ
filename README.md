@@ -42,6 +42,7 @@ I believe that programming languages are just tools, not something to be attatch
 
 [TryHackMe](https://tryhackme.com/p/zetsuHQ)
 
-# Currently working on...
 
-Building a [CTF](https://en.wikipedia.org/wiki/Capture_the_flag_(cybersecurity)) challenge for "Semana Aratu", an event from [Boitatech](https://boitatech.com.br/), the brazilian cybersecurity community where I'm active on a daily basis.
+# [Boitatech](https://boitatech.com.br/)
+
+The brazilian cybersecurity community where I'm active on a daily basis.
