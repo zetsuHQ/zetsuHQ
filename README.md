@@ -36,7 +36,7 @@ I believe that programming languages are just tools, not something to be attatch
 
 # My progress
 
-[Web Security Academy](https://imgur.com/8SlmjOW.png) (Oct 04, 2023)
+[Web Security Academy](https://github.com/zetsuHQ/zetsuHQ/blob/main/wsa-progress.png) (Nov 01, 2023)
 
 [HackTheBox](https://app.hackthebox.com/users/1528410)
 
