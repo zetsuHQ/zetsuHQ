@@ -9,9 +9,9 @@ After a couple of months I was already able to finish my first project: [passwor
 
 The experience aquired after that simple project allowed me to see that some of the things I thought were made for genious were actually just a matter of dedication and time, so now cybersecurity seemed a lot closer to my reality.
 
-Either if it is a material good, money, or information, it just sucks to realize that someone took from you something that is yours without your permission. My life's goal is to prevent that from happenning to other people (or companies). As I clearly have no vocation (or interest) of being a police officer, I'm willing to use the tools that I'm more familiar with to achieve that goal.
+Either if it is a material good, money, or information, it just sucks to realize that someone took from you something that is yours without your permission. My life's goal is to prevent that from happenning to other people. As I clearly have no vocation (or interest) of being a police officer, I'm willing to use the tools that I'm more familiar with to achieve that goal.
 
-I believe that programming languages are just tools, not something to be attatched to. Although having JavaScript as my first contact with the field, I won't stop myself from building things that I want, regarding the technology required.
+Although having JavaScript as my first contact with the field, I won't stop myself from building things that I want, regarding the technology required.
 
 # My interests
 
@@ -21,12 +21,11 @@ I believe that programming languages are just tools, not something to be attatch
   <li>Python</li>
   <li>C#</li>
   <li>C</li>
-  <li>Ruby</li>
+  <li>Assembly</li>
 </ul>
 
 <h3>Areas of expertise</h3>
 <ul>
-  <li>DevSecOps</li>
   <li>Backend development</li>
   <li>Malware development</li>
   <li>Reverse engineering</li>
@@ -36,7 +35,7 @@ I believe that programming languages are just tools, not something to be attatch
 
 # My progress
 
-[Web Security Academy](https://github.com/zetsuHQ/zetsuHQ/blob/main/wsa-progress.png) (Nov 01, 2023)
+[Web Security Academy](![image](https://github.com/zetsuHQ/zetsuHQ/assets/127287685/85bb8b3b-5b29-4367-868a-adef3982ba70) (Nov 01, 2023)
 
 [HackTheBox](https://app.hackthebox.com/users/1528410)
 
