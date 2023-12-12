@@ -7,7 +7,7 @@ When I got the opportunity to build my first computer in november 2022, the firs
 
 After a couple of months I was already able to finish my first project: [password-generator](https://github.com/zetsuHQ/password-generator). It felt amazing. Although being a simple client-side application, the feeling of building something from scratch, relying only on my abilities to research, was trully satisfactory.
 
-The experience aquired after that simple project allowed me to see that some of the things I thought were made for genious were actually just a matter of dedication and time, so now cybersecurity seemed a lot closer to my reality.
+The experience aquired after that simple project allowed me to see that some of the things I thought were made for genious were actually just a matter of dedication and time, then cybersecurity seemed a lot closer to my reality.
 
 Either if it is a material good, money, or information, it just sucks to realize that someone took from you something that is yours without your permission. My life's goal is to prevent that from happenning to other people. As I clearly have no vocation (or interest) of being a police officer, I'm willing to use the tools that I'm more familiar with to achieve that goal.
 
