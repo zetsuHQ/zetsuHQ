@@ -26,6 +26,7 @@ Although having JavaScript as my first contact with the field, I won't stop myse
 
 <h3>Areas of expertise</h3>
 <ul>
+  <li>Web Hacking</li>
   <li>Backend development</li>
   <li>Malware development</li>
   <li>Reverse engineering</li>
