@@ -36,7 +36,7 @@ Although having JavaScript as my first contact with the field, I won't stop myse
 
 # My progress
 
-[Web Security Academy](https://github.com/zetsuHQ/zetsuHQ/assets/127287685/dd8cd8b6-3481-4da1-8c54-499407264e95) (Dec 17, 2023)
+[Web Security Academy](https://github.com/zetsuHQ/zetsuHQ/assets/127287685/43b83d11-7d80-4fdf-93e6-adb2435de0cb) (Dec 23, 2023)
 
 [HackTheBox](https://app.hackthebox.com/users/1528410)
 
