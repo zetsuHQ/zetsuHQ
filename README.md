@@ -1,11 +1,11 @@
 
 # About me
 
-I'm zetsu (Gabriel Lima). Brazilian, 19 years old.
+I'm zetsu (Gabriel Lima). Brazilian, 20 years old.
 
 ## My interests
 
-### Languages
+### Programming languages
 
 - JavaScript
 - C
