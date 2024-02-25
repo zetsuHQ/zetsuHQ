@@ -19,8 +19,7 @@ I'm zetsu. Brazilian, 20 years old.
 - Backend development
 - Malware development
 - Reverse engineering
-- Pentesting
-- Red team
+- Red team activities
 
 ## My progress
 
