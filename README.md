@@ -1,7 +1,7 @@
 
 # About me
 
-I'm zetsu (Gabriel Lima). Brazilian, 20 years old.
+I'm zetsu. Brazilian, 20 years old.
 
 ## My interests
 
@@ -24,11 +24,9 @@ I'm zetsu (Gabriel Lima). Brazilian, 20 years old.
 
 ## My progress
 
-[Web Security Academy](https://github.com/zetsuHQ/zetsuHQ/assets/127287685/43b83d11-7d80-4fdf-93e6-adb2435de0cb) (Dec 23, 2023)
+[Web Security Academy](https://github.com/zetsuHQ/zetsuHQ/assets/127287685/0d8aa784-6e6d-4cf6-a151-e270f87c4c30) (Dec 23, 2023)
 
 [HackTheBox](https://app.hackthebox.com/users/1528410)
-
-[TryHackMe](https://tryhackme.com/p/zetsuHQ)
 
 ## [Boitatech](https://boitatech.com.br/) 
 
