@@ -20,10 +20,11 @@ I'm zetsu. Brazilian, 20 years old.
 - Malware development
 - Reverse engineering
 - Red team activities
+- Cryptography
 
 ## My progress
 
-[Web Security Academy](https://github.com/zetsuHQ/zetsuHQ/assets/127287685/75e2d87b-901b-42a0-92b8-4cabbabb227c) (Dec 23, 2023)
+[Web Security Academy](https://github.com/zetsuHQ/zetsuHQ/assets/127287685/274b94c6-5ead-44aa-bd7a-ab07de0a7335) (Mar 27, 2024)
 
 [HackTheBox](https://app.hackthebox.com/users/1528410)
 
