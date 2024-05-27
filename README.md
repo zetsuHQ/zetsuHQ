@@ -24,7 +24,7 @@ I'm zetsu. Brazilian, 20 years old.
 
 ## My progress
 
-[Web Security Academy](https://github.com/zetsuHQ/zetsuHQ/assets/127287685/b98c12c0-c1cf-4ac7-8ac6-3fe52f2bae7b) (Mar 27, 2024)
+[Web Security Academy](https://github.com/zetsuHQ/zetsuHQ/assets/127287685/b09276d4-95f6-4dfc-87fa-f71cac9f6238) (May 26, 2024)
 
 [HackTheBox](https://app.hackthebox.com/users/1528410)
 
