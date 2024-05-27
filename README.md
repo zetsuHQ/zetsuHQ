@@ -1,7 +1,7 @@
 
 # About me
 
-I'm zetsu. Brazilian, 20 years old.
+I'm zetsu. Brazilian, 20 years old. Currently working as a Full-Stack Web Developer.
 
 ## My interests
 
